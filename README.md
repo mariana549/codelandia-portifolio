@@ -20,6 +20,6 @@ Além do design original, aproveitei a oportunidade para adicionar novas funcion
 
 ## Contribuições
  
- - (Eduardo)[]: A pessoa que idealizou e pensou neste projeto com o objetivo de me ensinar sobre o Tailwind CSS.
+ -  [Eduardo](https://www.linkedin.com/in/eduardo-oliveira-liria-849467246/): A pessoa que idealizou e pensou neste projeto com o objetivo de me ensinar sobre o Tailwind CSS.
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias.
