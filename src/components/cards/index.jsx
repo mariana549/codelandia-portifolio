@@ -4,7 +4,7 @@ import PropTypes from "prop-types"
 function Cards({ name, descricao, stargazers, github, demo }) {
    return (
       <>
-         <li className="flex flex-col gap-4 items-start bg-[#171228] px-3 py-5 rounded transition  ease-in-out border border-[#873EFF] hover:duration-[0.7s] 
+         <li className="flex flex-col gap-4 items-start bg-[#171228] px-3 py-5 rounded transition  ease-in-out border border-[#873EFF] hover:duration-[0.7s]
          hover:scale-[.98] hover:shadow-md hover:shadow-[#c084fc97]">
             <iframe
                src={demo ? demo : imgAlternativa}

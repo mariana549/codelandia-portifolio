@@ -3,7 +3,10 @@ import PropTypes from "prop-types"
 
 function Projects({repos}) {
    return (
-      <ul className="grid grid-cols-2 gap-2 mt-20">
+      <ul className="grid gap-2 mt-20 
+         max-lg:grid-cols-1 md:grid-cols-2 
+         
+         ">
          {repos
          .map((e, i) => (
             <Cards 
