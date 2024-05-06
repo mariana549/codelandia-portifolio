@@ -7,7 +7,7 @@ function Header({ github, getUser }) {
       <header className="py-4">
          <Container>
             <div className="flex items-center justify-between">
-               <img src={logo} alt="logo" />
+               <img src={logo} alt="logo" className="w-16 h-auto" />
                <nav>
                   <ul className="flex items-center gap-6">
                      <li className="flex gap-2">
@@ -33,7 +33,7 @@ function Header({ github, getUser }) {
             </div>
          </Container>
       </header>
-   )
+   );
 }
 
 Header.propTypes = {

@@ -27,9 +27,7 @@ function GetPerfil() {
    }
 
    const getUser = (user) => {
-      console.log(user)
       setUserInput(user)
-      console.log(userInput)
       axiosData(userInput)
    }
    
