@@ -3,6 +3,7 @@
 ## Sobre o Projeto
 
 Este projeto foi criado com o objetivo de aprender sobre o framework **Tailwind CSS**. Inicialmente, ele seguiu o design fornecido pelo Codelândia, mas passou por algumas modificações para melhor se adequar às nossas necessidades e preferências.
+veja o projeto [Aqui](https://codelandia-portifolio.vercel.app)
 
 ### Funcionalidades Adicionais
 
